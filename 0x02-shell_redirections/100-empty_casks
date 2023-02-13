@@ -1,3 +1,3 @@
 #!/bin/bash
-find . -name .* -mindepth 1 -empty -printf '%f
+find . -name * -mindepth 1 -empty -printf '%f
 '
